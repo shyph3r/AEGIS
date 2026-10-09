@@ -20,6 +20,8 @@ Attack → Telemetry → Detection → Investigation → Response → Remediatio
 ## Project Status
 
 ### Day 1 — Lab Infrastructure
+### Day 2 - Linux fundamentals
+### Day 3 - Networking
 
 ## Disclaimer
 
