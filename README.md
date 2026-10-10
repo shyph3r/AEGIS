@@ -23,6 +23,7 @@ Attack → Telemetry → Detection → Investigation → Response → Remediatio
 ### Day 2 - Linux fundamentals
 ### Day 3 - Networking
 ### Day 4 - Docker fundanmentals
+### Day 5 - Deploying target with docker
 
 ## Disclaimer
 
