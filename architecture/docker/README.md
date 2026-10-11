@@ -1,6 +1,6 @@
 # Docker Fundamentals
 
-## Day 4 — Containers, Images, Processes, and Networking
+## Section 4 — Containers, Images, Processes, and Networking
 
 ## Overview
 

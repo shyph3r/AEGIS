@@ -19,11 +19,12 @@ Attack → Telemetry → Detection → Investigation → Response → Remediatio
 
 ## Project Status
 
-### Day 1 — Lab Infrastructure
-### Day 2 - Linux fundamentals
-### Day 3 - Networking
-### Day 4 - Docker fundanmentals
-### Day 5 - Deploying target with docker
+### Section 1 — Lab Infrastructure
+### Section 2 - Linux fundamentals
+### Section 3 - Networking
+### Section 4 - Docker fundanmentals
+### Section 5 - Deploying target with docker
+### Section 6 - Burp Suite
 
 ## Disclaimer
 

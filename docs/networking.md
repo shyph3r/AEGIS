@@ -1,6 +1,6 @@
 # Network Traffic Analysis with Wireshark
 
-## Day 3 — ICMP, TCP, HTTP, UDP, and DNS
+## Section 3 — ICMP, TCP, HTTP, UDP, and DNS
 
 ## Overview
 

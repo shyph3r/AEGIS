@@ -1,6 +1,6 @@
 # Linux Fundamentals
 
-## Day 2 — Processes, Services, and Ports
+## Section 2 — Processes, Services, and Ports
 
 ### 1. Processes
 
