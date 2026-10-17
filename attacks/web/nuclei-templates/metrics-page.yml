@@ -1,0 +1,16 @@
+id: metrics
+
+info:
+  name: metrics path
+  author: aegis
+  severity: medium
+
+http:
+  - method: GET
+    path:
+      - "{{BaseURL}}/metrics"
+
+    matchers:
+      - type: status
+        status:
+          - 200
