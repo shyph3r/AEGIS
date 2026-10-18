@@ -20,11 +20,19 @@ Attack → Telemetry → Detection → Investigation → Response → Remediatio
 ## Project Status
 
 ### Section 1 — Lab Infrastructure
-### Section 2 - Linux fundamentals
-### Section 3 - Networking
-### Section 4 - Docker fundanmentals
-### Section 5 - Deploying target with docker
-### Section 6 - Burp Suite
+### Section 2 — Linux Fundamentals
+### Section 3 — Networking
+### Section 4 — Docker Fundamentals
+### Section 5 — Deploying Target with Docker
+### Section 6 — Burp Suite
+### Section 7 — Review
+### Section 8 — Network Reconnaissance with Nmap
+### Section 9 — HTTP Enumeration
+### Section 10 — OWASP Vulnerability Testing
+### Section 11 — Nuclei Vulnerability Scanning & Custom YAML Templates
+### Section 12 — Web Fuzzing & Endpoint Discovery with ffuf
+### Section 13 — Vulnerability Assessment & CVSS Fundamentals
+### Section 14 — Security Findings, Reporting & Remediation Concepts
 
 ## Disclaimer
 
